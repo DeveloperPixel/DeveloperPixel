@@ -35,7 +35,7 @@ class AIEngineer:
         ]
         
     def future_goals(self):
-        return "Revolutionizing agriculture with AI & IoT! 🌱"
+        return "Revolutionizing world with innovations 🚀"
 ```
 
 <br clear="right"/>
