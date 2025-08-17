@@ -99,7 +99,7 @@ class AIEngineer:
 ### 🌾 Smart Kisan - AI-Powered Agriculture Revolution
 <img align="left" width="80" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif">
 
-**🔗 [View Project](https://github.com/DeveloperPixel/smart-kisan)**
+**🔗 [View Project](https://github.com/DeveloperPixel/SmartKisan)**
 
 **Tech Stack:** `Arduino` `IoT Sensors` `Firebase` `TensorFlow` `Android Studio` `Machine Learning`
 
@@ -114,7 +114,7 @@ class AIEngineer:
 ### 🛒 Scrapify - Intelligent Price Tracking Platform
 <img align="left" width="80" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-**🔗 [View Project](https://github.com/DeveloperPixel/scrapify)**
+**🔗 [View Project](https://github.com/DeveloperPixel/Scrapify)**
 
 **Tech Stack:** `Django` `Beautiful Soup` `Selenium` `ML Algorithms` `Firebase` `NLP`
 
@@ -129,7 +129,7 @@ class AIEngineer:
 ### ♿ IoT Wheelchair Controller - Accessibility Innovation
 <img align="left" width="80" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-**🔗 [View Project](https://github.com/DeveloperPixel/wheelchair-controller)**
+**🔗 [View Project](https://github.com/DeveloperPixel/Controller)**
 
 **Tech Stack:** `Arduino` `Voice Recognition` `Gesture Control` `Firebase` `Android` `AI Vision`
 
@@ -144,7 +144,7 @@ class AIEngineer:
 ### 🐚 Python Shell - AI-Enhanced Command System
 <img align="left" width="80" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-**🔗 [View Project](https://github.com/DeveloperPixel/python-shell)**
+**🔗 [View Project](https://github.com/DeveloperPixel/Shell-using-python)**
 
 **Tech Stack:** `Python` `NLP` `Command Processing` `AI Automation` `System Integration`
 
